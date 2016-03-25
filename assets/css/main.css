@@ -1,0 +1,30 @@
+/*Integrate Roboto*/
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Spacing Helpers*/
+.margin-top {
+  margin-top: 1rem !important;
+}
+.margin-bottom {
+  margin-top: 1rem !important;
+}
+.margin-left {
+  margin-top: 1rem !important;
+}
+.margin-right {
+  margin-top: 1rem !important;
+}
+
+.padding {
+  padding: 2rem 0;
+}
+
+.flexbox-container {
+  display: flex;
+}
+
+.hero-cover {
+  border-bottom: 5px solid #cecece;
+}
